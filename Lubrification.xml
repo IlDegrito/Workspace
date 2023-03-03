@@ -1048,7 +1048,7 @@
         <Component Name="DB Lubrification" />
         <Component Name="Memorie logiche" />
         <Component Name="Lubrificazione" />
-        <Component Name="Ciclo attivo" />
+        <Component Name="Ciclo attivo Old" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
